@@ -1,9 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Open+Sans:wght@300;400&family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Open+Sans:wght@300;400;700&family=Roboto:wght@400;700&display=swap');
 
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 400;
-  font-weight: bold;
   color: #575F7D;
   background-color: #e9ecf0;
   text-align: center;
@@ -75,7 +74,8 @@ ul {
 }
 
 p {
-  margin: 20px 0px 32px;
+  margin: 10px 0px 32px;
+  line-height: 1.6;
 }
 
 @media (max-width: 960px) {
