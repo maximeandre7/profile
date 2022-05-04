@@ -38,6 +38,7 @@ ul {
   text-decoration: none;
   padding: 12px 36px;
   margin: 20px 20px;
+  opacity: 0.8;
 }
 
 .btn-grey:hover {
@@ -66,6 +67,7 @@ ul {
 
 .footer > ul > li > a {
   color: #575F7D;
+  opacity: 0.8;
 }
 
 .footer > ul > li > a:hover {
